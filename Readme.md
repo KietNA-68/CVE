@@ -1,4 +1,5 @@
 # CVE-2021-39503 (Authenticated Remote Code Execution)
+##### Product: `PHPMyWind`
 ##### Vulnerability param: `site_key`
 ##### Function: `site_save.php`
 ##### Effected source code file: `{Source}/admin/site_save.php`
@@ -15,6 +16,7 @@
 ![Image](https://user-images.githubusercontent.com/54875703/130347838-d487d7f7-2be5-4e3b-93c5-7ade2fc73691.png)
 
 # CVE-2021-39496 (Authenticated Reflected Cross-site Scripting)
+##### Product: `EyouCMS`
 ##### Vulnerability param: `?filename=`
 ##### Function: `newfile`, `edit`
 ##### Effected source code file: `{Source]\application\admin\controller\Filemanager.php`
@@ -26,6 +28,7 @@
 ![Image](https://i.imgur.com/K5GvOM3.png)
 
 # CVE-2021-39497 (Blind Server-side Request Forgery)
+##### Product: `EyouCMS`
 ##### Vulnerability param: `source[]`
 ##### Function: `Uploadify`
 ##### Effected source code file: `{Source]\application\admin\controller\Uploadify.php`
@@ -39,6 +42,7 @@
 ![Image](https://user-images.githubusercontent.com/54875703/130278564-d8ea6431-19e0-424e-9604-d95744906976.png)
 
 # CVE-2021-39499 (Reflected Cross-site Scripting)
+##### Product: `EyouCMS`
 ##### Vilnerability param: `title`
 ##### Function: `bind_email`
 ##### Effected source code file: `{Source]\application\user\controller\Users.php`
@@ -53,6 +57,7 @@
 ![Image](https://i.imgur.com/eeQZV5M.png)
 
 # CVE-2021-39500 (Directory Traversal)
+##### Product: `EyouCMS`
 ##### Vilnerability param: `tpldir`, `filename`, `type`, `nid`
 ##### Function: `ajax_newtpl`
 ##### Effected source code file: `{Source]\application\admin\controller\Archives.php`
@@ -65,6 +70,7 @@
 ![Image](https://i.imgur.com/FFeemNj.png)
 
 # CVE-2021-39501 (Open Redirect)
+##### Product: `EyouCMS`
 ##### Vilnerability param: `referurl`
 ##### Function: `logout`
 ##### Effected source code file: `{Source]\application\user\controller\Users.php`
