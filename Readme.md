@@ -1,7 +1,5 @@
 ### Information
-- Author: KietNA from Inv1cta Team - HPT Cyber Security Center
-- Workmail: kietna@hpt.vn
-- Gmail: kietnguyenanh9320@gmail.com
+- Author: KietNA
 
 
 ---
@@ -27,3 +25,4 @@ All of my CVEs
 | CVE-2021-40888 | Reflected Cross-site Scripting in returnFilesIds() function  | 5.4 | https://nvd.nist.gov/vuln/detail/CVE-2021-40888 |
 | CVE-2021-39496      | There is Cross-site Scripting in Filemanager       |  5.4    | https://nvd.nist.gov/vuln/detail/CVE-2021-39496 |
 | CVE-2021-40191 | Lacking of sanitizer fileName lead to Cross-site Scripting in Upload function  | 5.4 | https://nvd.nist.gov/vuln/detail/CVE-2021-40191 |
+| CVE-2023-22887 | Path Traversal in Apache Airflow | 6.5 | [https://www.cve.org/CVERecord?id=CVE-2023-22887](https://nvd.nist.gov/vuln/detail/CVE-2023-22887) |
